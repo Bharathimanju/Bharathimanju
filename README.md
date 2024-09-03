@@ -4,6 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathimanju&label=Profile%20views&color=0e75b6&style=flat" alt="bharathimanju" /> </p>
+<!-- <img align="left" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" alt="bharathimanju" /> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bharathimanju](https://github.com/Bharathimanju)
 
@@ -12,6 +13,8 @@
 - 📫 How to reach me **bharathimanju2001@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
