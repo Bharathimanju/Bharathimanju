@@ -1,8 +1,7 @@
+![MasterHead](https://github.com/Bharathimanju/Bharathimanju/blob/main/banner%201.gif)
 <h1 align="center">Hi 👋, I'm Manjubharathi</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="coading" width="400" src="https://github.com/Bharathimanju/Bharathimanju/blob/main/gif%202.gif"/>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathimanju&label=Profile%20views&color=0e75b6&style=flat" alt="bharathimanju" /> </p>
 
