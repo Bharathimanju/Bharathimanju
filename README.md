@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjubharathi</h1>
 <h3 align="center">Full-Stack Developer</h3>
+<img align="right" alt="coading" width="400" src="https://github.com/Bharathimanju/Bharathimanju/blob/main/gif%202.gif"/>
 
 
 
